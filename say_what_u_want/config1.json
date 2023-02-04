@@ -1,6 +1,6 @@
  {
    "config-id": "config1",
-   "someKey": "SomeValue",
+   "rtl-environmnent": "release",
    "someOtherKey": "SomeOtherValue",
    "some.threshold": "2",
    "some.threahsold.other": "320"
