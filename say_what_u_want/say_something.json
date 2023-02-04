@@ -1,0 +1,8 @@
+ {
+   "message": "Generic Config for Recorder applications",
+   "someKey": "SomeValue",
+   "someOtherKey": "SomeOtherValue",
+   "some.threshold": "10",
+   "some.threahsold.other": "250"
+ }
+ 

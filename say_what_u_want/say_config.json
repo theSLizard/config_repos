@@ -1,0 +1,8 @@
+ {
+   "message": "Litener config file",
+   "someKey": "SomeValue",
+   "someOtherKey": "SomeOtherValue",
+   "some.threshold": "2",
+   "some.threahsold.other": "320"
+ }
+ 

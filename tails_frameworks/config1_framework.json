@@ -1,0 +1,8 @@
+ {
+   "config-id": "config1",
+   "someKey": "SomeValue",
+   "someOtherKey": "SomeOtherValue",
+   "some.threshold": "2",
+   "some.threahsold.other": "320"
+ }
+ 

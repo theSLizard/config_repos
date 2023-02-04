@@ -1,0 +1,8 @@
+ {
+   "message": "Common config records for ICECREAM clients",
+   "someKey": "SomeValue",
+   "someOtherKey": "SomeOtherValue",
+   "some.threshold": "10",
+   "some.threahsold.other": "250"
+ }
+ 
