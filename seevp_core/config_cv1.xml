@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
   <config-id>config1</config-id>
+  <rtl-environment>qa-testing</rtl-environment>  
   <NumberOfPorts>25</NumberOfPorts>
   <someOtherKey>SomeOtherValue</someOtherKey>
   <some.threshold>2</some.threshold>
