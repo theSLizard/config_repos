@@ -1,6 +1,6 @@
  {
    "message": "Common config records for ICECREAM clients",
-   "someKey": "SomeValue",
+   "rtl-environmnent": "config",
    "someOtherKey": "SomeOtherValue",
    "some.threshold": "10",
    "some.threahsold.other": "250"
